@@ -1,0 +1,21 @@
+# .gitignore for ew-documentation.
+# There's a lot here, please try to keep it organized.
+
+### NFS artifacts
+.nfs*
+
+### OS X artifacts
+*.DS_Store
+.AppleDouble
+:2e_*
+:2e#
+
+### Python artifacts
+*.pyc
+
+### Unknown artifacts
+build
+\#*\#
+.env/
+autodeploy.properties
+.ws_migrations_complete
