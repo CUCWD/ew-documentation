@@ -13,4 +13,5 @@
 
 .. Cypress Doc Links
 
+.. _Open edX Learner's Guide - Cypress Release: http://edx.readthedocs.org/projects/open-edx-learner-guide/en/named-release-cypress/index.html
 .. _ew course catalog: https://educateworkforce.com/courses`
