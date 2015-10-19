@@ -19,3 +19,5 @@ September 2015
      - Change
    * - 25 September 2015
      - Initial version of this guide for EducateWorkforce users.
+   * - 19 October 2015
+     - Added reference to Open edX Learner's Guide - Cypress Release.
